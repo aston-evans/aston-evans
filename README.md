@@ -21,12 +21,12 @@
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<!--<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
 <p align="center">I'm Aston from Georgia, USA<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I like to play sports with my friends. </p>
-
+-->
 ###
 
 <h3 align="center">🛠 Tech Stack</h3>
