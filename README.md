@@ -56,21 +56,64 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+<h3 align="center">🛠 Languages and Tools</h3>
 <div align="center">
-<!--<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="8" align="center" style="color: white;">Frontend</th>
+      <th colspan="4" align="center" >Programming Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" ">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" >
+          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
+        </a>
+        <br>HTML
+      </td>
+     <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
+        </a>
+        <br>CSS
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="75" height="50"/>
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://docs.python.org/3/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
+        </a>
+        <br>Python
+      </td>
+    </tr>
+  </tbody>
+<!--<h3 align="center">Framework</h3>
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="2" align="center"> Frameworks </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        HTML<br>
-        <a href="https://www.svgrepo.com/svg/353884/html-5">
-          <img src="https://www.svgrepo.com/svg/353884/html-5" alt="HTML Logo">
-        </a>
-      </td>
+      <a href="#">
+      <img src="/assets/icons/bootstrap.svg" alt="Bootstrap" width="32" height="32">
+      </a>
+      <br>
+      Bootstrap  
+      </td>      
+      </tr>
+    <tr>
+      <td align="center">
+        <a href="#">
+        <img src="/assets/icons/bootstrap.svg" alt="Bootstrap" width="32" height="32">
     </tr>
   </tbody>-->
 <div align="center">
