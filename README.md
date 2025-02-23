@@ -23,7 +23,7 @@
 
 <h2 >👩‍💻  About Me</h2>
 
-I'm Aston a developer passionate about creating awesome web and mobile applications.  
+I'm Aston a full stack developer passionate about creating web and mobile applications.
 Currently working on [Portfolio Website](https://github.com/aston-evans/portfolio) 😊 
 
 
