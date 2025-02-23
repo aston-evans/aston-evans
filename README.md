@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="200" src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0077B6&text=Aston%20Evans&fontSize=65&textBg=false&animation=fadeIn&reversal=true&fontAlign=50&descAlignY=60&descAlign=60&section=header&fontColor=FFF"  />
+  <img height="200" src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0077B6&text=Welcome&fontSize=65&textBg=false&animation=fadeIn&reversal=true&fontAlign=50&descAlignY=60&descAlign=60&section=header&fontColor=FFF"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="mailto:findaston@gmail.com target="_blank">
+  <a href="mailto:findaston@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -19,16 +19,13 @@
 
 ###
 
-<h1 align="left">Welcome 👋</h1>
 
 
+<h2 >👩‍💻  About Me</h2>
 
-<!--<h3 align="center">👩‍💻  About Me</h3>
+I'm Aston a developer passionate about creating awesome web and mobile applications.  
+Currently working on [Portfolio Website](https://github.com/aston-evans/portfolio) 😊 
 
-###
-
-<p align="center">I'm Aston from Georgia, USA<br>- 📚 I'm currently learning Java<br>- ⚡ In my free time I like to play sports with my friends. </p>
--->
 
 <h3 align="center">🛠 Languages and Tools</h3>
 <div align="center">
@@ -72,7 +69,7 @@
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="3" align="center">Frameworks and DevOps</th>
+      <th colspan="4" align="center">Frameworks, DevOps, Databases</th>
     </tr>
   </thead>
   <tbody>
@@ -94,6 +91,12 @@
           <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/>
         </a>
         <br>Docker
+      </td>
+       <td align="center">
+        <a href="https://www.sqlite.org/">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" width="50" height="50"/>
+        </a>
+        <br>SQLite
       </td>
     </tr>
   </tbody>
