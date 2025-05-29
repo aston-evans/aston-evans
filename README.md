@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0077B6&text=Welcome&fontSize=65&textBg=false&animation=fadeIn&reversal=true&fontAlign=50&descAlignY=60&descAlign=60&section=header&fontColor=FFF"  />
-</div>
+# 👋 Hi, I'm Aston 
 
 ###
 
@@ -22,9 +20,8 @@
 
 
 <h2 >👩‍💻  About Me</h2>
-
-I'm Aston a full stack developer passionate about creating web and mobile applications.
-Currently working on [Portfolio Website](https://github.com/aston-evans/portfolio) 😊 
+Hi, I'm Aston a full-stack developer who loves creating sleek, user-friendly web and mobile applications.
+<!--Currently working on [Portfolio Website](https://github.com/aston-evans/portfolio) 😊 --> 
 
 
 <h3 align="center">🛠 Languages and Tools</h3>
