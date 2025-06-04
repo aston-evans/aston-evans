@@ -7,7 +7,7 @@
   <a href="mailto:findaston@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
   </a>
-  <!-- Portfolio link, section may chagne the link
+  <!-- Portfolio link, section may change the link
   <!-- <a href="https://your-portfolio.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=githubpages&label=&color=24292F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio" />
   </a> -->
@@ -24,14 +24,14 @@
 Hi, I'm Aston, a passionate full-stack developer who loves building sleek, user-friendly web and mobile applications.  
 I thrive on solving real-world problems with clean, scalable code and intuitive design.  
 Let’s build something awesome together!
-<!-- when you start working on delta add that you're working on that here with the link --> 
+<!-- when I start working on delta add that you're working on that here with the link --> 
 
 ---
 
 ## 🚀 Featured Projects
 
 - [Portfolio Website](https://github.com/aston-evans/portfolio): My personal portfolio showcasing projects and skills.
-- [Another Cool Project](https://github.com/aston-evans/some-project): Short description of what it does or why it’s interesting.
+- [SUNYSnacks](https://github.com/aston-evans/sunysnacks): Fullstack food review app from my college campus. 
 
 ---
 
